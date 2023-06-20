@@ -1,1 +1,1 @@
-# collection of golang pcap program { under devlopment }
+# collection of golang pcap program { under development }
